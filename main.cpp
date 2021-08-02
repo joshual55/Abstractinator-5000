@@ -10,8 +10,8 @@
 int main() {
 
     cout << "\n---------- Welcome to the Abstractinator 5000! ----------\n";
-    cout << "Make sure you move any images to the images folder.\n\n";
-    cout << "Note: Using this program with jpgs requires ImageMagick. The windows download is found at . . .\n";
+    cout << "Make sure you move the jpg images to the \"images\" folder.\n\n";
+    cout << "Note: Using this program with jpgs requires ImageMagick. The Windows 10 download is found at . . .\n";
     cout << "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-4-Q16-HDRI-x64-dll.exe\n\n";
 
     string option = "-1";
